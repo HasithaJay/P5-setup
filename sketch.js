@@ -3,8 +3,6 @@ function setup() {
 }
 
 function draw() {
-  background("Aqua");
-  if(mouseIsPressed){
-    circle(mouseX,mouseY,100)
-  }
+  background(220);
+  
 }
